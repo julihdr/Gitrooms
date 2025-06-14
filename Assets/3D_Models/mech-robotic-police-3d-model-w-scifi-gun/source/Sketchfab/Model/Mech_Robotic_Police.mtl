@@ -1,0 +1,174 @@
+# Blender 3.4.1 MTL File: 'None'
+# www.blender.org
+
+newmtl Armours
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Texturing2_Armours_BaseColor.png
+map_Ns C:/Texturing2_Armours_Roughness.png
+map_refl C:/Texturing2_Armours_Metallic.png
+map_Ke C:/Texturing2_Armours_Emissive.png
+map_Bump -bm 1.000000 C:/Texturing2_Armours_Normal.png
+
+newmtl BigPart
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/ScifiGunTexture_BigPart_BaseColor.png
+map_Ns C:/ScifiGunTexture_BigPart_Roughness.png
+map_refl C:/ScifiGunTexture_BigPart_Metallic.png
+map_Ke C:/ScifiGunTexture_BigPart_Emissive.png
+map_Bump -bm 1.000000 C:/ScifiGunTexture_BigPart_Normal.png
+
+newmtl BigPart2
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/ScifiGunTexture_BigPart2_BaseColor.png
+map_Ns C:/ScifiGunTexture_BigPart2_Roughness.png
+map_refl C:/ScifiGunTexture_BigPart2_Metallic.png
+map_Ke C:/ScifiGunTexture_BigPart2_Emissive.png
+map_Bump -bm 1.000000 C:/ScifiGunTexture_BigPart2_Normal.png
+
+newmtl BulletProof
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Texturing2_BulletProof_BaseColor.png
+map_Ns C:/Texturing2_BulletProof_Roughness.png
+map_refl C:/Texturing2_BulletProof_Metallic.png
+map_Ke C:/Texturing2_BulletProof_Emissive.png
+map_Bump -bm 1.000000 C:/Texturing2_BulletProof_Normal.png
+
+newmtl Exoskeleton
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Texturing2_Exoskeleton_BaseColor.png
+map_Ns C:/Texturing2_Exoskeleton_Roughness.png
+map_refl C:/Texturing2_Exoskeleton_Metallic.png
+map_Ke C:/Texturing2_Exoskeleton_Emissive.png
+map_Bump -bm 1.000000 C:/Texturing2_Exoskeleton_Normal.png
+
+newmtl Glass
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Head_B
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Texturing2_Head_B_BaseColor.png
+map_Ns C:/Texturing2_Head_B_Roughness.png
+map_refl C:/Texturing2_Head_B_Metallic.png
+map_Ke C:/Texturing2_Head_B_Emissive.png
+map_Bump -bm 1.000000 C:/Texturing2_Head_B_Normal.png
+
+newmtl Head_noB
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Texturing2_Head_noB_BaseColor.png
+map_Ns C:/Texturing2_Head_noB_Roughness.png
+map_refl C:/Texturing2_Head_noB_Metallic.png
+map_Ke C:/Texturing2_Head_noB_Emissive.png
+map_Bump -bm 1.000000 C:/Texturing2_Head_noB_Normal.png
+
+newmtl Legs
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Texturing2_Legs_BaseColor.png
+map_Ns C:/Texturing2_Legs_Roughness.png
+map_refl C:/Texturing2_Legs_Metallic.png
+map_Ke C:/Texturing2_Legs_Emissive.png
+map_Bump -bm 1.000000 C:/Texturing2_Legs_Normal.png
+
+newmtl Nurbs
+Ns 276.827301
+Ka 0.777778 0.777778 0.777778
+Kd 0.089840 0.089840 0.089840
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Nurbs2
+Ns 276.827301
+Ka 0.777778 0.777778 0.777778
+Kd 0.020791 0.020791 0.020791
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl SmallPart
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/ScifiGunTexture_SmallPart_BaseColor.png
+map_Ns C:/ScifiGunTexture_SmallPart_Roughness.png
+map_refl C:/ScifiGunTexture_SmallPart_Metallic.png
+map_Ke C:/ScifiGunTexture_SmallPart_Emissive.png
+map_Bump -bm 1.000000 C:/ScifiGunTexture_SmallPart_Normal.png
+
+newmtl Trigger
+Ns 112.132797
+Ka 1.000000 1.000000 1.000000
+Kd 0.017187 0.017187 0.017187
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Tube
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/ScifiGunTexture_Tube_BaseColor.png
+map_Ns C:/ScifiGunTexture_Tube_Roughness.png
+map_refl C:/ScifiGunTexture_Tube_Metallic.png
+map_Ke C:/ScifiGunTexture_Tube_Emissive.png
+map_Bump -bm 1.000000 C:/ScifiGunTexture_Tube_Normal.png
+
+newmtl UpperBody
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Texturing2_UpperBody_BaseColor.png
+map_Ns C:/Texturing2_UpperBody_Roughness.png
+map_refl C:/Texturing2_UpperBody_Metallic.png
+map_Ke C:/Texturing2_UpperBody_Emissive.png
+map_Bump -bm 1.000000 C:/Texturing2_UpperBody_Normal.png
