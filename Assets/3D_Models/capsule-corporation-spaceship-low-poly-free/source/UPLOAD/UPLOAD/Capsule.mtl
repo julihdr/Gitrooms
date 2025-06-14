@@ -1,0 +1,132 @@
+newmtl Pata_base_low
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Capsule_Pata_base_low_BaseColor.jpg
+map_Ks Capsule_Pata_base_low_Roughness.jpg
+map_bump Capsule_Pata_base_low_Normal.jpg
+newmtl gravity_low
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Capsule_gravity_low_BaseColor.jpg
+map_Ks Capsule_gravity_low_Roughness.jpg
+map_bump Capsule_gravity_low_Normal.jpg
+newmtl door_low
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Capsule_door_low_BaseColor.jpg
+map_Ks Capsule_door_low_Roughness.jpg
+map_bump Capsule_door_low_Normal.jpg
+newmtl Marcoext_low
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Capsule_Marcoext_low_BaseColor.jpg
+map_Ks Capsule_Marcoext_low_Roughness.jpg
+map_bump Capsule_Marcoext_low_Normal.jpg
+newmtl Marco_low
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Capsule_Marco_low_BaseColor.jpg
+map_Ks Capsule_Marco_low_Roughness.jpg
+map_bump Capsule_Marco_low_Normal.jpg
+newmtl Ground_low
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Capsule_Ground_low_BaseColor.jpg
+map_Ks Capsule_Ground_low_Roughness.jpg
+map_bump Capsule_Ground_low_Normal.jpg
+newmtl Base_low
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Capsule_Base_low_BaseColor.jpg
+map_Ks Capsule_Base_low_Roughness.jpg
+map_bump Capsule_Base_low_Normal.jpg
+newmtl Floor_low
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Capsule_Floor_low_BaseColor.jpg
+map_Ks Capsule_Floor_low_Roughness.jpg
+map_bump Capsule_Floor_low_Normal.jpg
+newmtl Interior_low
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Capsule_Interior_low_BaseColor.jpg
+map_Ks Capsule_Interior_low_Roughness.jpg
+map_bump Capsule_Interior_low_Normal.jpg
+newmtl Patas_low
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Capsule_Patas_low_BaseColor.jpg
+map_Ks Capsule_Patas_low_Roughness.jpg
+map_bump Capsule_Patas_low_Normal.jpg
+newmtl BrazosDoor_low
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Capsule_BrazosDoor_low_BaseColor.jpg
+map_Ks Capsule_BrazosDoor_low_Roughness.jpg
+map_bump Capsule_BrazosDoor_low_Normal.jpg
+newmtl Windows
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Capsule_Windows_BaseColor.jpg
+map_Ks Capsule_Windows_Roughness.jpg
+map_bump Capsule_Windows_Normal.jpg
