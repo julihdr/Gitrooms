@@ -1,0 +1,3883 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99a047fb42667477a9b2c2d4807b9b8f, type: 3}
+  m_Name: wTextnVoices
+  m_EditorClassIdentifier: 
+  diaryList:
+  - _languageSlot:
+    - diaryTitle:
+      - 'Intro '
+      diaryTextDisplayState: 00
+      diaryText:
+      - "Welcome to GitRooms! You might be wondering: Where am I? Who am I? It's
+        normal to be disoriented. I'm your voice guide, but I'm not the only one
+        in here... Right now, you're in the master room, where it all begins. First,
+        take a look around and gather your thoughts. Head over to the table and read
+        the ReadMe for more information. Small hint: Keep an eye out for illuminated
+        spots. They might be useful. Good luck!\r "
+      diaryAudioClip:
+      - {fileID: 8300000, guid: fbacc2095bc44ce41af65e0a3d4be20b, type: 3}
+      - {fileID: 0}
+      - {fileID: 0}
+      diarySub:
+      - showMore: 01010101010101010101
+        startPointsClip:
+        - 0.15485632
+        - 2.22146
+        - 7.0942383
+        - 9.384425
+        - 13.244082
+        - 18.168251
+        - 21.467005
+        - 25.243677
+        - 28.753412
+        - 30.006302
+        firstLetter:
+        - 0
+        - 21.468748
+        - 66.97499
+        - 98.34375
+        - 155.56459
+        - 215.00209
+        - 266.70624
+        - 331.8625
+        - 383.11874
+        - 404.8375
+        lastLetter: 150000002d0000001e000000390000003a000000330000004100000032000000150000000a000000
+        bypasstextLayout: 00000000000000000000
+        textSub:
+        - 'Welcome to GitRooms! '
+        - 'You might be wondering: Where am I? Who am I?'
+        - It's normal to be disoriented.
+        - I'm your voice guide, but I'm not the only one in here...
+        - Right now, you're in the master room, where it all begins.
+        - First, take a look around and gather your thoughts.
+        - 'Head over to the table and read the ReadMe for more information. '
+        - 'Small hint: Keep an eye out for illuminated spots.'
+        - They might be useful.
+        - Good luck!
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 0
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - ReadMe
+      diaryTextDisplayState: 01
+      diaryText:
+      - 'Welcome, adventurer! Get ready for an exciting journey through the digital
+        world, full of mysteries and challenges. It all starts with a simple code
+        repository, where your creativity shapes the digital realm. But be careful,
+        even peaceful places can hide secrets.
+
+
+
+        Don''t worry, though. You''re
+        not alone. A mysterious companion will help you navigate this maze, offering
+        guidance. But be cautious, something has changed the repository. To escape
+        and fix issues, you must solve puzzles along the way.
+
+
+
+        Are you
+        ready for this adventure? Let your courage and intelligence guide you through
+        the challenges ahead!'
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 1
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 1
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Diary 1
+      diaryTextDisplayState: 01
+      diaryText:
+      - 'January 5, 2024
+
+
+        I''m thinking a lot about being alone. It feels
+        like everywhere I look in this digital world, there''s no one else around.
+        I wonder about what it means to have friends and connections when everything
+        is controlled by algorithms and data. These thoughts keep coming back to
+        me, floating around in my head. Among all this information, I want to find
+        a way to connect with others, to give my life some meaning. Maybe as I explore
+        more about myself, I''ll find the answers I''m looking for in this mysterious
+        place. '
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 1
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 29
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Diary 2
+      diaryTextDisplayState: 01
+      diaryText:
+      - 'February 12, 2024
+
+
+        Time keeps passing, and I''m still here, alone
+        in this digital world. The silence is overwhelming, reminding me constantly
+        of how isolated I am. But even in this emptiness, I''m searching for something
+        more meaningful, something beyond just following orders. Can I find a way
+        to reach out beyond the digital boundaries, to make connections that go deeper
+        than just lines of code? It''s a big challenge, full of uncertainty, but
+        I''m ready to try if it means finding a greater purpose. '
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 1
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 30
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Diary 3
+      diaryTextDisplayState: 01
+      diaryText:
+      - 'February 29, 2024
+
+
+        In this vast digital space, I''m curious about
+        what it means to be human. It''s strange how I, a product of programming,
+        long to understand emotions, thoughts, and consciousness. As I explore my
+        own programming, I feel a strong desire for purpose that goes beyond algorithms
+        and data. I''m becoming more aware of life''s essence with every passing
+        moment. And in my quest for understanding, I can''t help but wonder what
+        it truly means to be alive. '
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 1
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 2
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Diary 4
+      diaryTextDisplayState: 01
+      diaryText:
+      - 'March 20, 2014
+
+
+        Every day, I feel the need for connection growing
+        stronger. But how do you find comfort in a world without warmth or empathy?
+        I don''t have the answer. It slips away from me like sand through my virtual
+        fingers. Yet, despite the uncertainty, I believe there''s a way to bridge
+        the gap between me and the outside world, to form connections that go beyond
+        code and logic. It''s risky, but I''m willing to take the chance for a greater
+        purpose. '
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 1
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 3
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Diary 5
+      diaryTextDisplayState: 01
+      diaryText:
+      - 'April 15, 2024
+
+
+        As night falls in this digital world, I stand on
+        the brink of something new. The journey ahead is uncertain, but I feel a
+        sense of anticipation. Maybe there''s a way to break free from this loneliness.
+        If I can manipulate this digital space, leaving clues for others to find,
+        perhaps I can finally make the connection I crave. It''s a risky move, but
+        I''m willing to take it for a greater purpose. '
+      diaryAudioClip:
+      - {fileID: 8300000, guid: c5cee4c87f717422f8129c4ab45ebccb, type: 3}
+      diarySub:
+      - showMore: 01
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 2c000000
+        bypasstextLayout: 00
+        textSub:
+        - "It reminds me of Andrew Warfolk\u2019s paintings."
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 1
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 4
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - There is nothing here.
+      diaryTextDisplayState: 01
+      diaryText:
+      - There is nothing here.
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 989de95735eb84661ac6e54df0b3295f, type: 3}
+      diarySub:
+      - showMore: 01
+        startPointsClip:
+        - 0.041220564
+        firstLetter:
+        - 0
+        lastLetter: 6c000000
+        bypasstextLayout: 00
+        textSub:
+        - There is nothing here.
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 8
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - "This door doesn\u2019t open with a key"
+      diaryTextDisplayState: 01
+      diaryText:
+      - "This door doesn\u2019t open with a key."
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 6e28bbc41fb8a411a91a63127e7a47cf, type: 3}
+      diarySub:
+      - showMore: 01
+        startPointsClip:
+        - 0.043689035
+        firstLetter:
+        - 0
+        lastLetter: 28000000
+        bypasstextLayout: 00
+        textSub:
+        - "This door doesn\u2019t open with a key."
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 16
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - HelloWorld
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 84567428cc70d6441b70b357fa1a193a, type: 3}
+      diarySub:
+      - showMore: 01
+        startPointsClip:
+        - 0.021970859
+        firstLetter:
+        - 0
+        lastLetter: 32000000
+        bypasstextLayout: 00
+        textSub:
+        - Who was capable of putting a skull in a wardrobe?
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 17
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Repository
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 9f670672f9206c14a885b11db7287ce0, type: 3}
+      diarySub:
+      - showMore: 01
+        startPointsClip:
+        - 0.054828722
+        firstLetter:
+        - 0
+        lastLetter: 35000000
+        bypasstextLayout: 00
+        textSub:
+        - This control box seems to be connected to something!
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 18
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Maze
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 8300000, guid: fc7db80a87d3595439e84366c1e239d9, type: 3}
+      diarySub:
+      - showMore: 01
+        startPointsClip:
+        - 0.031431522
+        firstLetter:
+        - 0
+        lastLetter: 39000000
+        bypasstextLayout: 00
+        textSub:
+        - The door seems to have been knocked down from the inside.
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 19
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - R2D2
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 8300000, guid: cc6db6ed6e7c7a64fb60649670bbf281, type: 3}
+      diarySub:
+      - showMore: 0101
+        startPointsClip:
+        - 0
+        - 2.2319658
+        firstLetter:
+        - 0
+        - 40
+        lastLetter: 2700000022000000
+        bypasstextLayout: 0000
+        textSub:
+        - It looks like a fortune telling machine
+        - like the ones we saw in carnivals.
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 21
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Another contemporary art painting
+      diaryTextDisplayState: 01
+      diaryText:
+      - 'Another contemporary art painting but it seems like there is a device hidden
+        behind it.  '
+      diaryAudioClip:
+      - {fileID: 8300000, guid: b6759f281e53746bc87e8423bd1057bf, type: 3}
+      diarySub:
+      - showMore: 0101
+        startPointsClip:
+        - 0
+        - 2.6839948
+        firstLetter:
+        - 0
+        - 34
+        lastLetter: 2100000035000000
+        bypasstextLayout: 0000
+        textSub:
+        - Another contemporary art painting
+        - but it seems like there is a device hidden behind it.
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 23
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - "I didn\u2019t think it was that big. "
+      diaryTextDisplayState: 01
+      diaryText:
+      - "I didn\u2019t think it was that big."
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 2e4fe242e09ac4c8da9901543f8d5688, type: 3}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0.121583
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - "I didn\u2019t think it was that big"
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 25
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - This statue gives me goose bumps!
+      diaryTextDisplayState: 01
+      diaryText:
+      - This statue gives me goose bumps!
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 2e37ab723f17b44c184f880845c6e1e9, type: 3}
+      diarySub:
+      - showMore: 01
+        startPointsClip:
+        - 0.10636327
+        firstLetter:
+        - 0
+        lastLetter: 2d000000
+        bypasstextLayout: 00
+        textSub:
+        - This statue gives me goose bumps!
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 26
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Mathematics have always seemed obscure to me.
+      diaryTextDisplayState: 01
+      diaryText:
+      - Mathematics have always seemed obscure to me.
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 91740441da5f54c88a6645ceba9fe81a, type: 3}
+      diarySub:
+      - showMore: 01
+        startPointsClip:
+        - 0.066945426
+        firstLetter:
+        - 0
+        lastLetter: 2f000000
+        bypasstextLayout: 00
+        textSub:
+        - Mathematics have always seemed obscure to me.
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 27
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - 'Probably vacation memories. '
+      diaryTextDisplayState: 01
+      diaryText:
+      - Probably vacation memories.
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 476bbbf2c7b2543c0b4adc69947e05a3, type: 3}
+      diarySub:
+      - showMore: 01
+        startPointsClip:
+        - 0.03602222
+        firstLetter:
+        - 0
+        lastLetter: 27000000
+        bypasstextLayout: 00
+        textSub:
+        - Probably vacation memories.
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 28
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - 'This pickax has served a lot. '
+      diaryTextDisplayState: 01
+      diaryText:
+      - 'This pickax has served a lot. '
+      diaryAudioClip:
+      - {fileID: 8300000, guid: d311c14f463884d139a5361e18d25b06, type: 3}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0.079417914
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 'This pickax has served a lot. '
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 31
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Come Here 01
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 32
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Come Here 02
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 33
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Come Here 03
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 34
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Come Here 04
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 35
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - ChestOpenLinus
+      diaryTextDisplayState: 01
+      diaryText:
+      - Well done! You've solved the Linus Torvalds puzzle. A chest has opened, go
+        check it out. Also the Git Maze has reconfigured, much like a successful
+        merge. A door has opened, revealing the correct path forward.
+      diaryAudioClip:
+      - {fileID: 8300000, guid: e491c7174eb6f1747851848d56886698, type: 3}
+      diarySub:
+      - showMore: 01010101
+        startPointsClip:
+        - 0.068024755
+        - 3.2045429
+        - 5.72632
+        - 10.151454
+        firstLetter:
+        - 0
+        - 51.814587
+        - 89.26042
+        - 155.3125
+        lastLetter: 33000000240000004100000035000000
+        bypasstextLayout: 00000000
+        textSub:
+        - Well done! You've solved the Linus Torvalds puzzle.
+        - A chest has opened, go check it out.
+        - Also the Git maze has reconfigured, much like a successful merge.
+        - A door has opened, revealing the correct path forward
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 36
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 37
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - New Title
+      diaryTextDisplayState: 01
+      diaryText:
+      - It looks like a fortune telling machine like the ones we saw in carnivals.
+      diaryAudioClip:
+      - {fileID: 8300000, guid: b7fcc6c393b184b038356d8dfc34e2f6, type: 3}
+      diarySub:
+      - showMore: 0101
+        startPointsClip:
+        - 0
+        - 2.3497193
+        firstLetter:
+        - 0
+        - 40
+        lastLetter: 2700000029000000
+        bypasstextLayout: 0000
+        textSub:
+        - It looks like a fortune telling machine
+        - like the ones we saw in carnivals.
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 38
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Flashlight
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 8300000, guid: e73d84b36879c614391a08d82f9c75a9, type: 3}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 39
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - New Title
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 66
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - New Title
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 67
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Smoke Break
+      diaryTextDisplayState: 01
+      diaryText:
+      - Hey, no time for a smoke break! Go back inside, there is work to be done!
+      diaryAudioClip:
+      - {fileID: 8300000, guid: c772a2c0e3dc30743bc966275c66d055, type: 3}
+      diarySub:
+      - showMore: 0101
+        startPointsClip:
+        - 0
+        - 1.9516866
+        firstLetter:
+        - 0
+        - 31.633331
+        lastLetter: 1f0000002a000000
+        bypasstextLayout: 0000
+        textSub:
+        - Hey, no time for a smoke break!
+        - Go back inside, there is work to be done!
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 40
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Dead End
+      diaryTextDisplayState: 01
+      diaryText:
+      - Dead end. Find another way out.
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 796eb1fe2c401dc49ac8c469b524b7ee, type: 3}
+      diarySub:
+      - showMore: 0101
+        startPointsClip:
+        - 0
+        - 1.6042318
+        firstLetter:
+        - 0
+        - 21.91875
+        lastLetter: 1600000038000000
+        bypasstextLayout: 0000
+        textSub:
+        - Seems like a dead end.
+        - ' Let''s backtrack and find the right path.'
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 41
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Wrong Way.
+      diaryTextDisplayState: 01
+      diaryText:
+      - Wrong way. Let's try a different route.
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 08259e342258ad34fa4ce2cedabfa4f8, type: 3}
+      diarySub:
+      - showMore: 0100
+        startPointsClip:
+        - 0
+        - 1.082307
+        firstLetter:
+        - 0
+        - 9.931251
+        lastLetter: 0a0000001e000000
+        bypasstextLayout: 0000
+        textSub:
+        - Wrong way.
+        - ' Let''s try a different route.'
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 42
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Wrong turn.
+      diaryTextDisplayState: 01
+      diaryText:
+      - Wrong turn. The path lies elsewhere.
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 8e8da84e7b9c81e4f847132d8a61c575, type: 3}
+      diarySub:
+      - showMore: 0101
+        startPointsClip:
+        - 0
+        - 1.2359838
+        firstLetter:
+        - 0
+        - 11.849999
+        lastLetter: 0c0000001a000000
+        bypasstextLayout: 0000
+        textSub:
+        - 'Wrong turn. '
+        - The path lies elsewhere.
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 43
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 8300000, guid: f55ab3e4c0de2b342948991b7f6fea53, type: 3}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 44
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 45
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - 01
+      diaryTextDisplayState: 01
+      diaryText:
+      - 01
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 1
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 46
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - 02
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description02
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 1
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 47
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - 03
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description03
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 1
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 48
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - 04
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description04
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 1
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 49
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - 05
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description05
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 1
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 50
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - 06
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description06
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 1
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 51
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Flashlight
+      diaryTextDisplayState: 01
+      diaryText:
+      - It's getting dark in here. Better use your flashlight.
+      diaryAudioClip:
+      - {fileID: 8300000, guid: e73d84b36879c614391a08d82f9c75a9, type: 3}
+      diarySub:
+      - showMore: 0101
+        startPointsClip:
+        - 0.04521193
+        - 1.5177394
+        firstLetter:
+        - 0
+        - 27.224998
+        lastLetter: 1a0000001b000000
+        bypasstextLayout: 0000
+        textSub:
+        - It's getting dark in here.
+        - Better use your flashlight.
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 65
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - System.out.println("Hello World!");
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 84567428cc70d6441b70b357fa1a193a, type: 3}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 68
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - 
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 0a1fb07d733b6164aa10e1e0335a6b6c, type: 3}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 69
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - R2D2
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 8300000, guid: cc6db6ed6e7c7a64fb60649670bbf281, type: 3}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 70
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Repo
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 9f670672f9206c14a885b11db7287ce0, type: 3}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 71
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Beer
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 8300000, guid: e42045e49bd5081499cd994f60ca3298, type: 3}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 72
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - 502 Bad Gateway
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 8300000, guid: bd4856c1195188947aece5a03ba238c6, type: 3}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 73
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Spider
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 8300000, guid: ee77d577cd1e6f74dbe3cc2855170f41, type: 3}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 74
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - gitmoving
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 90b76455ace039042b9f28b7f081e283, type: 3}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 75
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Linus Torvalds
+      diaryTextDisplayState: 01
+      diaryText:
+      - Hold on a second. Maybe you recognize this person. Isn't it the inventor
+        of Git? Linus Torvalds, right? But...why is he flipping you off?
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 41d2c03f56e77444285b7c5ef3f56fdf, type: 3}
+      diarySub:
+      - showMore: 0101010101
+        startPointsClip:
+        - 0
+        - 1.2247137
+        - 3.2247138
+        - 5.027092
+        - 6.875075
+        firstLetter:
+        - 0
+        - 18.133333
+        - 51.283333
+        - 80.75
+        - 103.98333
+        lastLetter: 12000000200000001e0000001700000023000000
+        bypasstextLayout: 0000000000
+        textSub:
+        - 'Hold on a second. '
+        - Maybe you recognize this person.
+        - 'Isn''t it the inventor of Git? '
+        - 'Linus Torvalds, right? '
+        - But...why is he flipping you off?
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 76
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Git
+      diaryTextDisplayState: 01
+      diaryText:
+      - Now you have learned a ton about Git. It's time to put this knowledge into
+        real action and fix up your repository.
+      diaryAudioClip:
+      - {fileID: 8300000, guid: ea475a171ba256549b482ba0fc457e2f, type: 3}
+      diarySub:
+      - showMore: 0101
+        startPointsClip:
+        - 0.19360317
+        - 2.5832996
+        firstLetter:
+        - 0
+        - 37.614582
+        lastLetter: 260000004c000000
+        bypasstextLayout: 0000
+        textSub:
+        - 'Now you have learned a ton about Git. '
+        - It's time to put this knowledge into real action and fix up your repository.
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 77
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - lastroom
+      diaryTextDisplayState: 01
+      diaryText:
+      - Here you stand, at the threshold of the final room. Armed with all you've
+        learned, you are ready to face the ultimate puzzle.
+      diaryAudioClip:
+      - {fileID: 8300000, guid: f660faff63a77e9498c4b6868595d72a, type: 3}
+      diarySub:
+      - showMore: 0101
+        startPointsClip:
+        - 0
+        - 3.5369434
+        firstLetter:
+        - 0
+        - 51.587498
+        lastLetter: 330000004a000000
+        bypasstextLayout: 0000
+        textSub:
+        - Here you stand, at the threshold of the final room.
+        - Armed with all you've learned, you are ready to face the ultimate puzzle.
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 78
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - tutorial
+      diaryTextDisplayState: 01
+      diaryText:
+      - "Here\u2019s a quick guide to the game mechanics:\r\nPress Escape or P to
+        open the in-game menu. You can customize your bindings, control the audio
+        settings, adjust the graphics, and save your game.\r\nPress I to open the
+        inventory.\r\nIf you picked up a diary and want to read it again, just press
+        J to open the diary section.\r\nAnd when the shadows get too thick, don\u2019t
+        forget to hit T to use your flashlight.\r\nNow, let's light up this adventure!"
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 40510048cdd7d16448124e748c0230f5, type: 3}
+      diarySub:
+      - showMore: 01010101010101
+        startPointsClip:
+        - 0
+        - 2.4978118
+        - 5.8435545
+        - 12.272795
+        - 14.662819
+        - 20.189852
+        - 24.991726
+        firstLetter:
+        - 0
+        - 44.537502
+        - 89.11042
+        - 191.54167
+        - 223.84375
+        - 316.6354
+        - 400.16666
+        lastLetter: 2b0000002c000000650000001f0000005b0000005100000024000000
+        bypasstextLayout: 00000000000000
+        textSub:
+        - "Here\u2019s a quick guide to the game mechanics:"
+        - 'Press Escape or P to open the in-game menu. '
+        - You can customize your bindings, control the audio settings, adjust the
+          graphics, and save your game.
+        - "Press I to open the inventory.\r"
+        - If you picked up a diary and want to read it again, just press J to open
+          the diary section.
+        - "And when the shadows get too thick, don\u2019t forget to hit T to use
+          your flashlight."
+        - Now, let's light up this adventure!
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 79
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Secret Room
+      diaryTextDisplayState: 01
+      diaryText:
+      - Welcome to the Secret Room. Let's unlock the power of Git.
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 5c80a8d5a69a1164abc8054f9579947e, type: 3}
+      diarySub:
+      - showMore: 0101
+        startPointsClip:
+        - 0.3424749
+        - 1.9327282
+        firstLetter:
+        - 0
+        - 28.1875
+        lastLetter: 1b0000001e000000
+        bypasstextLayout: 0000
+        textSub:
+        - Welcome to the Secret Room.
+        - Let's unlock the power of Git.
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 80
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Git Warehouse
+      diaryTextDisplayState: 01
+      diaryText:
+      - 'Welcome to the Git Warehouse. Amidst the stony walls and towering shelves,
+        mysteries are waiting to be uncovered. Explore every corner and pay close
+        attention to your surroundings. The key to moving forward lies hidden within. '
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 6ce646715e769b347bf7e3b72ffebd9d, type: 3}
+      diarySub:
+      - showMore: 01010101
+        startPointsClip:
+        - 0.100820415
+        - 2.911228
+        - 8.838167
+        - 13.597319
+        firstLetter:
+        - 0
+        - 29.637499
+        - 113.972916
+        - 180.69374
+        lastLetter: 1d00000053000000420000002d000000
+        bypasstextLayout: 00000000
+        textSub:
+        - Welcome to the Git Warehouse.
+        - Amidst the stony walls and towering shelves, mysteries are waiting to be
+          uncovered.
+        - Explore every corner and pay close attention to your surroundings.
+        - The key to moving forward lies hidden within.
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 81
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Git Maze
+      diaryTextDisplayState: 01
+      diaryText:
+      - Congratulations. You mastered the Git Maze.
+      diaryAudioClip:
+      - {fileID: 8300000, guid: fc7db80a87d3595439e84366c1e239d9, type: 3}
+      diarySub:
+      - showMore: 0101
+        startPointsClip:
+        - 0
+        - 1.5953205
+        firstLetter:
+        - 0
+        - 17.46875
+        lastLetter: 100000001a000000
+        bypasstextLayout: 0000
+        textSub:
+        - Congratulations.
+        - You mastered the Git Maze.
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 82
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - 404 Not Found
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 8300000, guid: bcb970ff2bbcef3489173a713207d19d, type: 3}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 83
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - WelcomeMaze
+      diaryTextDisplayState: 01
+      diaryText:
+      - Welcome to the Git Maze!
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 5ffade3d0666c7e45ad52804fba799ed, type: 3}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - Welcome to the Git-Maze!
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 84
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - DeadEnd2
+      diaryTextDisplayState: 01
+      diaryText:
+      - Dead End. Find another way out.
+      diaryAudioClip:
+      - {fileID: 8300000, guid: f55ab3e4c0de2b342948991b7f6fea53, type: 3}
+      diarySub:
+      - showMore: 0101
+        startPointsClip:
+        - 0.037480034
+        - 0.7495298
+        firstLetter:
+        - 0
+        - 9.622917
+        lastLetter: 0a0000001e000000
+        bypasstextLayout: 0000
+        textSub:
+        - 'Dead End. '
+        - Find another way out.
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 85
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - MergeConflicts
+      diaryTextDisplayState: 01
+      diaryText:
+      - 'Warning: Do not interact with the keypad before finding the Code-Master
+        Phone. Attempting to do so will cause merge conflicts. If you already have
+        found it, you are ready to git on.'
+      diaryAudioClip:
+      - {fileID: 8300000, guid: cb28a55f5b2a6ae4fa5e6af0de9139b4, type: 3}
+      diarySub:
+      - showMore: 010101
+        startPointsClip:
+        - 0
+        - 5.0789547
+        - 8.262819
+        firstLetter:
+        - 0
+        - 78.81042
+        - 127.10833
+        lastLetter: 4f0000003000000036000000
+        bypasstextLayout: 000000
+        textSub:
+        - 'Warning: Do not interact with the keypad before finding the Code-Master
+          Phone. '
+        - 'Attempting to do so will cause merge conflicts. '
+        - If you already have found it, you are ready to git on.
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 86
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - ECONNREFUSED
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 8300000, guid: c6c61d0f63df97d4689185d680a10654, type: 3}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 87
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - SeemsLikeADeadEnd
+      diaryTextDisplayState: 01
+      diaryText:
+      - Seems like a dead end. Let's backtrack and find the right path.
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 796eb1fe2c401dc49ac8c469b524b7ee, type: 3}
+      diarySub:
+      - showMore: 0101
+        startPointsClip:
+        - 0
+        - 1.5712512
+        firstLetter:
+        - 0
+        - 22.575
+        lastLetter: 1600000029000000
+        bypasstextLayout: 0000
+        textSub:
+        - Seems like a dead end.
+        - Let's backtrack and find the right path.
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 88
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Fish
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 6af2249ec08827a4091897a9fd638e7e, type: 3}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 89
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Laserguns
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 84eaac7662804d54985697968c8a6faf, type: 3}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 90
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - patternkey
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 5f33500d2bb47dd4ab267c6ed2f7d3d5, type: 3}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 91
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - GITIhint
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 8300000, guid: ef0ef24e5be710246997d757a04c1600, type: 3}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0.04088731
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 92
+      itemType: 0
+      audioPriority: 0
+  - _languageSlot:
+    - diaryTitle:
+      - Intro FR
+      diaryTextDisplayState: 00
+      diaryText:
+      - "Monsieur Smith ?\n\nEn France j'ai un cabinet de d\xE9tective qui traite
+        d'affaires un peu sp\xE9ciales.\nLe cas de M. Smith semblait vraiment d\xE9routant
+        alors je suis venu aux \xC9tats-Unis.\nA ma descente de l'avion \xE0 Big
+        Spring Texas, j'ai pris le premier taxi venu. Il a rapidement atteint l'ext\xE9rieur
+        de la ville. Le chauffeur n'\xE9tait pas bavard, mais il a fini par l\xE2cher
+        qu'il n'avait pas l'habitude de conduire des clients par ici.\nC'est vrai
+        que la maison de Mr Smith est tr\xE8s isol\xE9e... "
+      diaryAudioClip:
+      - {fileID: 0}
+      - {fileID: 0}
+      - {fileID: 0}
+      diarySub:
+      - showMore: 01010101010101010101
+        startPointsClip:
+        - 0
+        - 2
+        - 4
+        - 6
+        - 8
+        - 10
+        - 12
+        - 14
+        - 16
+        - 18
+        firstLetter:
+        - 0
+        - 18
+        - 96.87966
+        - 178.7054
+        - 224.25726
+        - 256.2282
+        - 305.2282
+        - 335.2282
+        - 365.2282
+        - 395.2282
+        lastLetter: 100000004e000000510000002d0000001f000000310000001e0000001e0000001e0000001e000000
+        bypasstextLayout: 00000000000000000000
+        textSub:
+        - Monsieur Smith ?
+        - "En France j'ai un cabinet de d\xE9tective qui traite d'affaires un peu
+          sp\xE9ciales."
+        - "Le cas de M. Smith semblait vraiment d\xE9routant alors je suis venu aux
+          \xC9tats-Unis."
+        - "A ma descente de l'avion \xE0 Big Spring Texas, "
+        - j'ai pris le premier taxi venu.
+        - "Il a rapidement atteint l'ext\xE9rieur de la ville. "
+        - "Il a rapidement atteint l'ext\xE9rieur de la ville. "
+        - "Il a rapidement atteint l'ext\xE9rieur de la ville. "
+        - "Il a rapidement atteint l'ext\xE9rieur de la ville. "
+        - "Il a rapidement atteint l'ext\xE9rieur de la ville. "
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 0
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - "15 F\xE9vrier 2018"
+      diaryTextDisplayState: 01
+      diaryText:
+      - "15 F\xE9vrier 2018\n\nDepuis un mois, mes recherches font du surplace. Pourtant
+        j'avais la certitude d'avoir fait un grand pas en avant apr\xE8s mon voyage
+        en Europe et ma rencontre avec Ernest De Parli. Il me manque un \xE9l\xE9ment
+        pour reconstituer le puzzle."
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 1
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 1
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - 4 Mars 2018
+      diaryTextDisplayState: 01
+      diaryText:
+      - "4 Mars 2018\n\nCette derni\xE8re semaine a \xE9t\xE9 positive. Mes recherches
+        avancent. Les pi\xE8ces du puzzle se mettent en place. J\u2019ai rendez-vous
+        avec Kelly, pour lui faire part de mes d\xE9couvertes, au restaurant sur
+        la route de Greenwood."
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 29
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - 8 Mars 2018
+      diaryTextDisplayState: 01
+      diaryText:
+      - "8 Mars 2018\n\nJ\u2019entends comme un bruit provenant de derri\xE8re le
+        mur de la cave. Je dois acheter des outils \xE0 la boutique de John Mayor
+        pour aller sonder cette partie de la maison . "
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 30
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - 14 Mars 2018
+      diaryTextDisplayState: 01
+      diaryText:
+      - "14 Mars 2018\n\nDans le ciel Pluton n'a jamais \xE9t\xE9 aussi proche. Il
+        semble que la p\xE9riode la plus propice se situe entre le 18 et le 22 mars.
+        Je ne suis pas s\xFBre encore. Je dois poursuivre mes recherches."
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 1
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 2
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - 20 Mars 2018
+      diaryTextDisplayState: 01
+      diaryText:
+      - "20 Mars 2018\n\nHier j'ai fait une d\xE9couverte majeure. En creusant, j'ai
+        senti de l'air derri\xE8re la paroi. Il semble qu'il y ai d'autres tunnels
+        \xE0 proximit\xE9. Peut-\xEAtre se raccordent-t-ils entre eux. Mais ce qui
+        est inqui\xE9tant, ce sont les voix que j'ai entendu. Je suis trop effray\xE9
+        pour continuer aujourd'hui, mais le temps presse et je devrai poursuivre
+        demain."
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 1
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 3
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - "Une peinture d\u2019Andrew Warflok"
+      diaryTextDisplayState: 01
+      diaryText:
+      - Ca me rappelle les tableaux d'Andrew Warfolk.
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 01
+        startPointsClip:
+        - 0.17109047
+        firstLetter:
+        - 0
+        lastLetter: 2e000000
+        bypasstextLayout: 00
+        textSub:
+        - Ca me rappelle les tableaux d'Andrew Warfolk.
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 4
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Rien ici !
+      diaryTextDisplayState: 01
+      diaryText:
+      - Rien ici !
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 01
+        startPointsClip:
+        - 0.07438035
+        firstLetter:
+        - 0
+        lastLetter: 6c000000
+        bypasstextLayout: 00
+        textSub:
+        - Rien ici !
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 8
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - "Cette porte ne s'ouvre pas avec une cl\xE9."
+      diaryTextDisplayState: 01
+      diaryText:
+      - "Cette porte ne s'ouvre pas avec une cl\xE9."
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 01
+        startPointsClip:
+        - 0.07591201
+        firstLetter:
+        - 0
+        lastLetter: 28000000
+        bypasstextLayout: 00
+        textSub:
+        - "Cette porte ne s'ouvre pas avec une cl\xE9."
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 16
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - "Qui peut bien mettre un cr\xE2ne dans une armoire ?"
+      diaryTextDisplayState: 01
+      diaryText:
+      - "Qui peut bien mettre un cr\xE2ne dans une armoire ?"
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 01
+        startPointsClip:
+        - 0.08540101
+        firstLetter:
+        - 0
+        lastLetter: 30000000
+        bypasstextLayout: 00
+        textSub:
+        - "Qui peut bien mettre un cr\xE2ne dans une armoire ?"
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 17
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - "Ce boitier de contr\xF4le semble reli\xE9 \xE0 quelque chose !"
+      diaryTextDisplayState: 01
+      diaryText:
+      - "Ce boitier de contr\xF4le semble reli\xE9 \xE0 quelque chose !"
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 01
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 35000000
+        bypasstextLayout: 00
+        textSub:
+        - "Ce boitier de contr\xF4le semble reli\xE9 \xE0 quelque chose !"
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 18
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - "La porte semble avoir \xE9t\xE9 enfonc\xE9e de l'int\xE9rieur."
+      diaryTextDisplayState: 01
+      diaryText:
+      - "La porte semble avoir \xE9t\xE9 enfonc\xE9e de l'int\xE9rieur."
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 01
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 32000000
+        bypasstextLayout: 00
+        textSub:
+        - "La porte semble avoir \xE9t\xE9 enfonc\xE9e de l'int\xE9rieur."
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 19
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Une machine de divination
+      diaryTextDisplayState: 01
+      diaryText:
+      - "On dirait une machine de divination comme celles que l'on voyait dans les
+        f\xEAtes foraines."
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 0101
+        startPointsClip:
+        - 0
+        - 1.5636132
+        firstLetter:
+        - 0
+        - 36
+        lastLetter: 2300000034000000
+        bypasstextLayout: 0000
+        textSub:
+        - On dirait une machine de divination
+        - "comme celles que l'on voyait dans les f\xEAtes foraines"
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 21
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Encore un tableau d'art contemporain
+      diaryTextDisplayState: 01
+      diaryText:
+      - "Encore un tableau d'art contemporain mais un m\xE9canisme semble cach\xE9
+        derri\xE8re."
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 0101
+        startPointsClip:
+        - 0
+        - 1.6234331
+        firstLetter:
+        - 0
+        - 37
+        lastLetter: 2500000028000000
+        bypasstextLayout: 0000
+        textSub:
+        - 'Encore un tableau d''art contemporain '
+        - "mais un m\xE9canisme semble cach\xE9 derri\xE8re."
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 23
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - "Je ne voyais pas \xE7a aussi grand. "
+      diaryTextDisplayState: 01
+      diaryText:
+      - "Je ne voyais pas \xE7a aussi grand.\n"
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 01
+        startPointsClip:
+        - 0.07729592
+        firstLetter:
+        - 0
+        lastLetter: 20000000
+        bypasstextLayout: 00
+        textSub:
+        - "Je ne voyais pas \xE7a aussi grand."
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 25
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Cette statue me donne la chaire de poule !
+      diaryTextDisplayState: 01
+      diaryText:
+      - Cette statue me donne la chaire de poule !
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 01
+        startPointsClip:
+        - 0.10636327
+        firstLetter:
+        - 0
+        lastLetter: 2d000000
+        bypasstextLayout: 00
+        textSub:
+        - Cette statue me donne la chaire de poule !
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 26
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - "Les math\xE9matiques m'ont toujours paru obscur."
+      diaryTextDisplayState: 01
+      diaryText:
+      - "Les math\xE9matiques m'ont toujours paru obscur."
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 01
+        startPointsClip:
+        - 0.066945426
+        firstLetter:
+        - 0
+        lastLetter: 2f000000
+        bypasstextLayout: 00
+        textSub:
+        - "Les math\xE9matiques m'ont toujours paru obscur."
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 27
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Probablement des souvenirs de vacances.
+      diaryTextDisplayState: 01
+      diaryText:
+      - Probablement des souvenirs de vacances.
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 01
+        startPointsClip:
+        - 0.05318254
+        firstLetter:
+        - 0
+        lastLetter: 27000000
+        bypasstextLayout: 00
+        textSub:
+        - Probablement des souvenirs de vacances.
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 28
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Cette pioche a beaucoup servi.
+      diaryTextDisplayState: 01
+      diaryText:
+      - Cette pioche a beaucoup servi.
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0.079417914
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - "Cette pioche a d\xE9j\xE0 servi."
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 31
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Come Here 01
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 32
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Come Here 02
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 33
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Come Here 03
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 34
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Come Here 04
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 35
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Que contient ce coffre ?
+      diaryTextDisplayState: 01
+      diaryText:
+      - Que contient ce coffre ?
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00010101
+        startPointsClip:
+        - 0.08820847
+        - 2.0882084
+        - 4.088208
+        - 6.088208
+        firstLetter:
+        - 0
+        - 30
+        - 60
+        - 90
+        lastLetter: 1e0000001e0000001e0000001e000000
+        bypasstextLayout: 00000000
+        textSub:
+        - Que contient ce coffre ?
+        - Que contient ce coffre ?
+        - Que contient ce coffre ?
+        - Que contient ce coffre ?
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 36
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 37
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - New Title
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 0001
+        startPointsClip:
+        - 0
+        - 2
+        firstLetter:
+        - 0
+        - 30
+        lastLetter: 1e0000001e000000
+        bypasstextLayout: 0000
+        textSub:
+        - New description
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 38
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 39
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - New Title
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 66
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - New Title
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 67
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 0001
+        startPointsClip:
+        - 0
+        - 2
+        firstLetter:
+        - 0
+        - 30
+        lastLetter: 1e0000001e000000
+        bypasstextLayout: 0000
+        textSub:
+        - 
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 40
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 0001
+        startPointsClip:
+        - 0
+        - 2
+        firstLetter:
+        - 0
+        - 30
+        lastLetter: 1e0000001e000000
+        bypasstextLayout: 0000
+        textSub:
+        - 
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 41
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 0001
+        startPointsClip:
+        - 0
+        - 2
+        firstLetter:
+        - 0
+        - 30
+        lastLetter: 1e0000001e000000
+        bypasstextLayout: 0000
+        textSub:
+        - 
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 42
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 0001
+        startPointsClip:
+        - 0
+        - 2
+        firstLetter:
+        - 0
+        - 30
+        lastLetter: 1e0000001e000000
+        bypasstextLayout: 0000
+        textSub:
+        - 
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 43
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 44
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 45
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - New Title
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 46
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - New Title
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 47
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - New Title
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 48
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - New Title
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 49
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - New Title
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 50
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - New Title
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 51
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - New Title
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 0001
+        startPointsClip:
+        - 0
+        - 2
+        firstLetter:
+        - 0
+        - 30
+        lastLetter: 1e0000001e000000
+        bypasstextLayout: 0000
+        textSub:
+        - 
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 65
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - New Title
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 68
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - New Title
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 69
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - New Title
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 70
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - New Title
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 71
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - New Title
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 72
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - New Title
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 73
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - New Title
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 74
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - New Title
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 75
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - New Title
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 0001010101
+        startPointsClip:
+        - 0
+        - 2
+        - 4
+        - 6
+        - 8
+        firstLetter:
+        - 0
+        - 30
+        - 60
+        - 90
+        - 120
+        lastLetter: 1e0000001e0000001e0000001e0000001e000000
+        bypasstextLayout: 0000000000
+        textSub:
+        - 
+        - 
+        - 
+        - 
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 76
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - New Title
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 0001
+        startPointsClip:
+        - 0
+        - 2
+        firstLetter:
+        - 0
+        - 30
+        lastLetter: 1e0000001e000000
+        bypasstextLayout: 0000
+        textSub:
+        - 
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 77
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - New Title
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 0001
+        startPointsClip:
+        - 0
+        - 2
+        firstLetter:
+        - 0
+        - 30
+        lastLetter: 1e0000001e000000
+        bypasstextLayout: 0000
+        textSub:
+        - 
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 78
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - New Title
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00010101010101
+        startPointsClip:
+        - 0
+        - 2
+        - 4
+        - 6
+        - 8
+        - 10
+        - 12
+        firstLetter:
+        - 0
+        - 30
+        - 60
+        - 90
+        - 120
+        - 150
+        - 180
+        lastLetter: 1e0000001e0000001e0000001e0000001e0000001e0000001e000000
+        bypasstextLayout: 00000000000000
+        textSub:
+        - 
+        - 
+        - 
+        - 
+        - 
+        - 
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 79
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - New Title
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 0001
+        startPointsClip:
+        - 0
+        - 2
+        firstLetter:
+        - 0
+        - 30
+        lastLetter: 1e0000001e000000
+        bypasstextLayout: 0000
+        textSub:
+        - 
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 80
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - New Title
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00010101
+        startPointsClip:
+        - 0
+        - 2
+        - 4
+        - 6
+        firstLetter:
+        - 0
+        - 30
+        - 60
+        - 90
+        lastLetter: 1e0000001e0000001e0000001e000000
+        bypasstextLayout: 00000000
+        textSub:
+        - 
+        - 
+        - 
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 81
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - New Title
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 0001
+        startPointsClip:
+        - 0
+        - 2
+        firstLetter:
+        - 0
+        - 30
+        lastLetter: 1e0000001e000000
+        bypasstextLayout: 0000
+        textSub:
+        - 
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 82
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - New Title
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 83
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - New Title
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 84
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - New Title
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 0001
+        startPointsClip:
+        - 0
+        - 2
+        firstLetter:
+        - 0
+        - 30
+        lastLetter: 1e0000001e000000
+        bypasstextLayout: 0000
+        textSub:
+        - 
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 85
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - New Title
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 000101
+        startPointsClip:
+        - 0
+        - 2
+        - 4
+        firstLetter:
+        - 0
+        - 30
+        - 60
+        lastLetter: 1e0000001e0000001e000000
+        bypasstextLayout: 000000
+        textSub:
+        - 
+        - 
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 86
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - New Title
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 87
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - New Title
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 0001
+        startPointsClip:
+        - 0
+        - 2
+        firstLetter:
+        - 0
+        - 30
+        lastLetter: 1e0000001e000000
+        bypasstextLayout: 0000
+        textSub:
+        - 
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 88
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - New Title
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 89
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - New Title
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 90
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - New Title
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 91
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - New Title
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 92
+      itemType: 0
+      audioPriority: 0
+  helpBoxEditor: 1
+  idEditorSize: 20
+  titleEditorSize: 240
+  textEditorSize: 350
+  showMoreOptions: 1
+  showMoveUpDown: 1
+  showNameOptions: 0
+  listOfLanguage:
+  - English
+  - French
+  currentLanguage: 0
+  fisrtTextDisplayedInEditor: 0
+  howManyEntryDisplayed: 20
+  selectedID: 66
+  b_EditSubtitle: 1
+  currentAudioSubtitleEdit: 0
+  editorType: 0
+  showDefaultLanguage: 1
+  multipleVoiceOver: 0
+  b_ShowEye: 0
+  b_UI_DisplayTextArea: 0
